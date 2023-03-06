@@ -1,0 +1,22 @@
+[{
+  "_id": {
+    "$oid": "64057551bffdd5f8bc93e5f1"
+  },
+  "name": "Barcelona",
+  "country": "Spain",
+  "founded": 1899
+},{
+  "_id": {
+    "$oid": "6405758abffdd5f8bc93e5f2"
+  },
+  "name": "Manchester United",
+  "country": "England",
+  "founded": 1878
+},{
+  "_id": {
+    "$oid": "640575b2bffdd5f8bc93e5f3"
+  },
+  "name": "Bayern Munich",
+  "country": "Germany",
+  "founded": 1900
+}]
